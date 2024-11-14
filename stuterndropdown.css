@@ -78,7 +78,7 @@ div p {
 .one {
     width: 310px;
     height: 480px;
-    background-image: url(../../Documents/stutern.png);
+    background-image: url(./stutern.png);
     border: none;
     margin-left: 770px;
     margin-top: -400px;
@@ -98,7 +98,7 @@ div p {
 .two {
     width: 310px;
     height: 480px;
-    background-image: url(../../Documents/stutern2.png);
+    background-image: url(./stutern2.png);
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 1100px;
@@ -147,7 +147,7 @@ p {
 .part2 {
     width: 600px;
     height: 490px;
-    background-image: url(../../Documents/eniola.png);
+    background-image: url(./eniola.png);
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 850px;
@@ -301,31 +301,31 @@ gap: 10px;
 
 }
 .frame1{
-    background-image: url(../../Documents/client-paystack.png);
+    background-image: url(./client-paystack.png);
     width: 195px;
     height: 50px;
     align-items: center;
 }
 .frame2 {
-    background-image: url(../../Documents/client-ge.png);
+    background-image: url(./client-ge.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .frame3 {
-    background-image: url(../../Documents/client-flutterwave.png);
+    background-image: url(./client-flutterwave.png);
     width: 195px;
     height: 50px;
     align-items: center;
 }
 .frame4 {
-    background-image: url(../../Documents/client-reckitt_benckiser.png);
+    background-image: url(./client-reckitt_benckiser.png);
     width: 195px;
     height: 50px;
     align-items: center;
 }
 .frame5 {
-    background-image: url(../../Documents/client-andela.png);
+    background-image: url(./client-andela.png);
     width: 195px;
     height: 50px;
     align-items: center;
@@ -337,31 +337,31 @@ gap: 10px;
     margin-left: 220px;
 }
 .oops1 {
-    background-image: url(../../Documents/client-sterling_bank.png);
+    background-image: url(./client-sterling_bank.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .oops2 {
-    background-image: url(../../Documents/client-opay.png);
+    background-image: url(./client-opay.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .oops3 {
-    background-image: url(../../Documents/client-cowrywise.png);
+    background-image: url(./client-cowrywise.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .oops4 {
-    background-image: url(../../Documents/client-jumia.png);
+    background-image: url(./client-jumia.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .oops5 {
-    background-image: url(../../Documents/client-lifebank.png);
+    background-image: url(./client-lifebank.png);
     width: 195px;
     height: 58px;
     align-items: center;
@@ -373,31 +373,31 @@ gap: 10px;
     margin-left: 267px;
 }
 .hh1 {
-    background-image: url(../../Documents/client-interswitch.png);
+    background-image: url(./client-interswitch.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .hh2 {
-    background-image: url(../../Documents/client-goldman_sachs.png);
+    background-image: url(./client-goldman_sachs.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .hh3 {
-    background-image: url(../../Documents/client-terragon.png);
+    background-image: url(./client-terragon.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .hh4 {
-    background-image: url(../../Documents/client-gtbank.png);
+    background-image: url(./client-gtbank.png);
     width: 195px;
     height: 58px;
     align-items: center;
 }
 .hh5 {
-    background-image: url(../../Documents/client-venture_garden.png);
+    background-image: url(./client-venture_garden.png);
     width: 195px;
     height: 58px;
     align-items: center;
